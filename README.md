@@ -12,7 +12,7 @@ IoT Camera is a camera with Wi-Fi wireless network.
 * GC1024 sensor
 * Hardware encoder for H.264, 1280x720 @ 30FPS
 * Hardware encoder for MJPEG
-
+More Information: http://www.fullhan.com/uploads/2016/05/301440421858.pdf
 ## Software
 
 The software in IoT Camera is based on RT-Thread RTOS. 
